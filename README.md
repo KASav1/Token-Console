@@ -7,4 +7,5 @@ So I am in no way responsible you are the only ones responsible for your actions
 
 <b> How to use <b/>
 * Change your webhook in main.js
+
 Go to https://discord.com login to your account press F12 and copy - paste script.
